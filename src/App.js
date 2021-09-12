@@ -33,7 +33,7 @@ function App() {
 
   return (
     <>
-      <Navbar brand="Rick and morti" />
+      <Navbar brand="Rick and morty" />
 
       <div className="container">
         <Pagination
